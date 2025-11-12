@@ -14,3 +14,9 @@
     color: white;
     text-decoration: none;
 }
+
+.Texto:hover {
+    font-size: 105%;
+    color: blue;
+    text-decoration: underline;
+}
